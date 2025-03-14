@@ -1,4 +1,4 @@
-![Binaryhood](Logo/BinaryhoodLogo.png)
+![Chatbot](Logo/chatbot.jpg)
 
 # ChatBot
 
